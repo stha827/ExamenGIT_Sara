@@ -5,7 +5,8 @@ Mi nombre es Sara Thapa Kc y en este examen voy a poner enpráctica todo lo que 
 
 
 ## Objetivo
-Crearemos una web para el instituto  😸
+Crearemos una web para el instituto  !./ 🏫
+
 
 
 ## Ejemplos
